@@ -1,5 +1,7 @@
 # FutureDNS
 
+[![Liberapay patrons](https://img.shields.io/liberapay/patrons/future_dns.svg?logo=liberapay)](https://liberapay.com/future_dns/)
+
 A privacy-focused DNS service that prioritizes security, speed, and user anonymity.
 
 ## Features
@@ -36,8 +38,10 @@ You can check our service status at any time by visiting:
 
 ## Contact
 
-For support or inquiries, reach out to us at:
-[contact@futuredns.eu.org](mailto:contact@futuredns.eu.org)
+For support or inquiries:
+- Email: [contact@futuredns.eu.org](mailto:contact@futuredns.eu.org)
+- Twitter: [@futurednseuorg](https://x.com/futurednseuorg)
+- Support us: [Liberapay](https://liberapay.com/future_dns/)
 
 ## Privacy Policy
 
